@@ -1,4 +1,4 @@
-express-single-session
+express-single-session [![Build Status](https://travis-ci.org/alanshaw/express-single-session.svg)](https://travis-ci.org/alanshaw/express-single-session) [![devDependency Status](https://david-dm.org/alanshaw/express-single-session/dev-status.svg)](https://david-dm.org/alanshaw/express-single-session#info=devDependencies)
 ===
 Express middleware that enforces a single session per user.
 
